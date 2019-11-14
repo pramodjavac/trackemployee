@@ -1,0 +1,379 @@
+@charset "ISO-8859-1";
+
+#image {
+	width: 900px;
+	height: 440px;
+	top: -147px;
+	position: absolute;
+	left: 244px;
+}
+
+/* h1 { */
+/* 	position:absolute; */
+/* 	overflow : visible; */
+/* 	text-align: center; */
+/* } */
+#refreshButton {
+	position: absolute;
+	left: 84px;
+	top: 118px;
+}
+
+#homeButton {
+	position: absolute;
+	left: 1px;
+	top: 118px;
+}
+
+#deleteButton {
+	position: absolute;
+	left: 250px;
+	top: 118px;
+}
+
+#welcomeId {
+	position: absolute;
+	font-size: 37px !important;
+	top: 208px;
+	left: 324px;
+}
+
+#updateEmp {
+	position: absolute;
+	top: 335px;
+	right: 30px;
+	bottom: 50px;
+	left: 416px;
+	width: 226px;
+	height: 205px;
+	border: none;
+	color: white;
+	padding: 20px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 16px;
+	margin: 4px 2px;
+	border-radius: 50%;
+}
+
+#insertEmp {
+	position: absolute;
+	top: 335px;
+	right: 30px;
+	bottom: 50px;
+	left: 80px;
+	width: 226px;
+	height: 205px;
+	border: none;
+	color: white;
+	padding: 20px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 16px;
+	margin: 4px 2px;
+	border-radius: 50%;
+}
+
+#employeeTable {
+	position: absolute;
+	top: 180px;
+	left: 0px;
+}
+
+#backHome {
+	position: absolute;
+	top: 593px;
+	/* right: 30px; */
+	bottom: 50px;
+	left: 484px;
+	width: 180px;
+	height: 30px;
+}
+
+#insertEmpButton {
+	position: absolute;
+	top: 519px;
+	right: 30px;
+	bottom: 50px;
+	left: 357px;
+	width: 180px;
+	height: 30px;
+}
+
+#search {
+	position: absolute;
+	top: 118px;
+	left: 1230px;
+}
+
+#deleteEmp {
+	position: absolute;
+	top: 335px;
+	right: 80px;
+	bottom: 50px;
+	left: 785px;
+	width: 226px;
+	height: 205px;
+	border: none;
+	color: white;
+	padding: 20px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 16px;
+	margin: 4px 2px;
+	border-radius: 50%;
+}
+
+#viewEmp {
+	position: absolute;
+	top: 335px;
+	right: 80px;
+	bottom: 50px;
+	left: 1146px;
+	width: 226px;
+	height: 205px;
+	border: none;
+	color: white;
+	padding: 20px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 16px;
+	margin: 4px 2px;
+	border-radius: 50%;
+}
+
+#id {
+	position: absolute;
+	top: 45px;
+	right: 30px;
+	bottom: 50px;
+	left: 355px;
+	width: 180px;
+	height: 30px;
+	font-size: large;
+}
+
+#idLabel {
+	position: absolute;
+	top: 45px;
+	right: 30px;
+	bottom: 50px;
+	left: 50px;
+	font-size: large;
+}
+
+#name {
+	position: absolute;
+	top: 106px;
+	right: 30px;
+	bottom: 50px;
+	left: 355px;
+	width: 180px;
+	height: 30px;
+	font-size: large;
+}
+
+#nameLabel {
+	position: absolute;
+	top: 106px;
+	right: 30px;
+	bottom: 50px;
+	left: 50px;
+	height: 30px;
+	font-size: large;
+}
+
+#doj {
+	position: absolute;
+	top: 174px;
+	right: 30px;
+	bottom: 50px;
+	left: 355px;
+	width: 180px;
+	height: 30px;
+	font-size: large;
+}
+
+#dojLabel {
+	position: absolute;
+	top: 174px;
+	right: 30px;
+	bottom: 50px;
+	left: 50px;
+	height: 30px;
+	font-size: large;
+}
+
+#noi {
+	position: absolute;
+	top: 243px;
+	right: 30px;
+	bottom: 50px;
+	left: 355px;
+	width: 180px;
+	height: 30px;
+	font-size: large;
+}
+
+#noiLabel {
+	position: absolute;
+	top: 243px;
+	right: 30px;
+	bottom: 50px;
+	left: 50px;
+	height: 30px;
+	font-size: large;
+}
+
+#ui {
+	position: absolute;
+	top: 316px;
+	right: 30px;
+	bottom: 50px;
+	left: 355px;
+	width: 180px;
+	height: 30px;
+	font-size: large;
+}
+
+#uiLabel {
+	position: absolute;
+	top: 316px;
+	right: 30px;
+	bottom: 50px;
+	left: 50px;
+	height: 30px;
+	font-size: large;
+}
+
+#ca {
+	position: absolute;
+	top: 382px;
+	right: 30px;
+	bottom: 50px;
+	left: 355px;
+	width: 180px;
+	height: 30px;
+	font-size: large;
+}
+
+#caLabel {
+	position: absolute;
+	top: 382px;
+	right: 30px;
+	bottom: 50px;
+	left: 50px;
+	height: 30px;
+	font-size: large;
+}
+
+#comments {
+	position: absolute;
+	top: 442px;
+	right: 30px;
+	bottom: 50px;
+	left: 355px;
+	width: 180px;
+	height: 60px;
+	font-size: large;
+}
+
+#commentsLabel {
+	position: absolute;
+	top: 442px;
+	right: 30px;
+	bottom: 50px;
+	left: 50px;
+	height: 30px;
+	font-size: large;
+}
+
+.grid-container {
+	display: grid;
+	grid-template-columns: auto auto auto;
+	background-color: #2196F3;
+	padding: 10px;
+}
+
+.grid-item {
+	background-color: rgba(255, 255, 255, 0.8);
+	border: 1px solid rgba(0, 0, 0, 0.8);
+	padding: 20px;
+	font-size: 30px;
+	text-align: center;
+}
+
+.centered {
+	text-align: center;
+}
+
+#viewTable {
+	position: absolute;
+	top: 110px;
+}
+
+#homeViewButton {
+	position: absolute;
+	left: 1px;
+	top: 68px;
+}
+
+#homeUpdateButton {
+	position: absolute;
+	left: 1px;
+	top: 115px;
+}
+
+#openEmployeeId {
+	position: absolute;
+	left: 90px;
+	top: 115px;
+}
+
+#searchUpdateButton {
+	position: absolute;
+	left: 1350px;
+	top: 114px;
+}
+
+#viewSearch {
+	position: absolute;
+	top: 73px;
+	left: 1230px;
+}
+
+#searchViewButton {
+	position: absolute;
+	left: 1350px;
+	top: 68px;
+}
+
+#details {
+	position: absolute;
+	width: 41%;
+	height: 82%;
+	/* font-size: inherit; */
+	border: solid;
+	left: 430px;
+	box-sizing: border-box;
+	border: ridge;
+}
+
+#footerCard {
+	position: absolute;
+	width: 100%;
+	bottom: 0px;
+	/* height: 18px; */
+	background-color: cadetblue;
+}
+#footerInsertCard {
+    position: absolute;
+    width: 100%;
+    bottom: 0px;
+    height: 20px;
+    background-color: cadetblue;
+}
