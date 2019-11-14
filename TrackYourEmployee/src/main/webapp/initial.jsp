@@ -35,6 +35,7 @@
 				Employee</button>
 		</div>
 	</form>
+	
 	<form action="updateEmployee">
 		<div class="w3-container w3-center w3-animate-bottom">
 			<button id="updateEmp" value="Update Employee" class="btn btn-info">Update
