@@ -7,6 +7,7 @@ import org.springframework.stereotype.Component;
 @Scope("prototype")
 public class Customer {
 	
+	//hello made changes
 	private int Id;
 	private String name;
 	private String doj;
